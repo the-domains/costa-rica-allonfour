@@ -1,0 +1,28 @@
+name: Costa Rica Allonfour
+favicon: null
+layout_spectrum: 0.13966841949149966
+typography_spectrum: 0.3834966947324574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2529058095533401
+  lightness: 0.8775478387251496
+  saturation: 0.9888288439251482
+  rhythmicContrast: 0.5814105561003089
+purpose: []
